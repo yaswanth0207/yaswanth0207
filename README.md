@@ -12,7 +12,7 @@
 
 ```python
 yaswanth = {
-    "currently"   : "Data Engineer @ Community Dreams Foundation",
+    "currently"   : "Data Engineer",
     "background"  : "MS Computer Science @ University of Texas at Arlington",
     "specializes" : ["RAG Pipelines", "Multi-Agent Workflows", "LLM Backends"],
     "impact"      : "2nd Place RAG Hackathon | 0.88 faithfulness & 0.92 context precision",
