@@ -12,10 +12,11 @@
 
 ```python
 yaswanth = {
-    "currently"   : "Data Engineer",
+    "currently"   : "Backend Engineer",
     "background"  : "MS Computer Science @ University of Texas at Arlington",
     "specializes" : ["RAG Pipelines", "Multi-Agent Workflows", "LLM Backends"],
-    "impact"      : "2nd Place RAG Hackathon | 0.88 faithfulness & 0.92 context precision",
+    "impact"      : "Built production-style RAG systems with hybrid retrieval",
+                    "Designed multi-agent AI workflows with LangGraph",
     "cert"        : "AWS Data Engineer Associate (DEA-C01)",
     "fun-fact"    : "I won't ship a RAG pipeline until RAGAS says it's ready"
 }
@@ -45,7 +46,10 @@ yaswanth = {
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
