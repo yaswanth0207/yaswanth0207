@@ -18,7 +18,7 @@ yaswanth = {
     "impact"      : "Built production-style RAG systems with hybrid retrieval",
                     "Designed multi-agent AI workflows with LangGraph",
     "cert"        : "AWS Data Engineer Associate (DEA-C01)",
-    "fun-fact"    : "I won't ship a RAG pipeline until RAGAS says it's ready"
+    "fun-fact"    : "I won't ship a RAG pipeline until RAGAS says it's ready"  
 }
 ```
 
