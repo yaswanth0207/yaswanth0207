@@ -55,12 +55,3 @@ yaswanth = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
----
-
-### GitHub Stats
-
-[![Yaswanth's GitHub stats - Dark](https://github-readme-stats-alpha.vercel.app/api?username=yaswanth0207&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/yaswanth0207#gh-dark-mode-only)
-[![Yaswanth's GitHub stats - Light](https://github-readme-stats-alpha.vercel.app/api?username=yaswanth0207&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/yaswanth0207#gh-light-mode-only)
-[![Top Languages - Dark](https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=yaswanth0207&layout=compact&theme=tokyonight&hide_border=true&langs_count=6#gh-dark-mode-only)](https://github.com/yaswanth0207#gh-dark-mode-only)
-[![Top Languages - Light](https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=yaswanth0207&layout=compact&theme=default&hide_border=true&langs_count=6#gh-light-mode-only)](https://github.com/yaswanth0207#gh-light-mode-only)
