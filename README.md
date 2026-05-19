@@ -56,7 +56,7 @@ yaswanth = {
 
 ### GitHub Stats
 
-[![Yaswanth's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=yaswanth0207&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only)](https://github.com/yaswanth0207#gh-dark-mode-only)
-[![Yaswanth's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=yaswanth0207&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only)](https://github.com/yaswanth0207#gh-light-mode-only)
-[![Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0207&layout=compact&theme=tokyonight&hide_border=true&langs_count=6#gh-dark-mode-only)](https://github.com/yaswanth0207#gh-dark-mode-only)
-[![Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0207&layout=compact&theme=default&hide_border=true&langs_count=6#gh-light-mode-only)](https://github.com/yaswanth0207#gh-light-mode-only)
+[![Yaswanth's GitHub stats - Dark](https://github-readme-stats-alpha.vercel.app/api?username=yaswanth0207&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/yaswanth0207#gh-dark-mode-only)
+[![Yaswanth's GitHub stats - Light](https://github-readme-stats-alpha.vercel.app/api?username=yaswanth0207&show_icons=true&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/yaswanth0207#gh-light-mode-only)
+[![Top Languages - Dark](https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=yaswanth0207&layout=compact&theme=tokyonight&hide_border=true&langs_count=6#gh-dark-mode-only)](https://github.com/yaswanth0207#gh-dark-mode-only)
+[![Top Languages - Light](https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=yaswanth0207&layout=compact&theme=default&hide_border=true&langs_count=6#gh-light-mode-only)](https://github.com/yaswanth0207#gh-light-mode-only)
