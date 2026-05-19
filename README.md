@@ -18,7 +18,7 @@ yaswanth = {
     "impact"      : "Built production-style RAG systems with hybrid retrieval",
                     "Designed multi-agent AI workflows with LangGraph",
     "cert"        : "AWS Data Engineer Associate (DEA-C01)",
-    "fun-fact"    : "I won't ship a RAG pipeline until RAGAS says it's ready"  
+    "fun-fact"    : "I won't ship a RAG pipeline until RAGAS says it's ready."  
 }
 ```
 
@@ -55,3 +55,4 @@ yaswanth = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
